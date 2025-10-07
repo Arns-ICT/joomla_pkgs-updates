@@ -1,0 +1,24 @@
+<updates>
+    <update>
+        <name>GenEditor</name>
+        <description>Installation package for joomla 5.x</description>
+        <element>geneditor</element>
+        <type>plugin</type>
+		<folder>system</folder>
+		<client>site</client>
+        <version>1.0.0</version>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                <![CDATA[ https://github.com/Arns-ICT/joomla_plg-geneditor/releases/download/v1.0.0/joomla_plg-geneditor-v1.0.0.zip ]]>
+            </downloadurl>
+        </downloads>
+        <infourl title="Facebook API Plugin">
+            <![CDATA[ https://github.com/Arns-ICT/joomla_plg-geneditor/releases/tag/v1.0.0 ]]>
+        </infourl>
+        <targetplatform name="joomla" version="((5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+        <php_minimum>8.1.0</php_minimum>
+        <sha256>659D587BA9A8245C60D1FB06D71BB2175F4E20E9C11BA78D1DD1995B408354BE</sha256>
+        <sha384>56C3543536BC9C70D9C50806290CB034BA34B6FF27EFAD740AFBDA4605FB0418B8DFF9F6BFB56FA3DF1AFB10585BA587</sha384>
+        <sha512>127E286C63639992999E1ACEFAAEDDC45EE8EB6618752F583ACDF408FB2C0899499C236E27C6E4763162C7717AC89363F48BF039965C9DC2E686B1333BBA352B</sha512>
+    </update>
+</updates> 
