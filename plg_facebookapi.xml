@@ -6,19 +6,19 @@
         <type>plugin</type>
 		<folder>system</folder>
 		<client>site</client>
-        <version>1.0.0</version>
+        <version>1.0.1</version>
         <downloads>
             <downloadurl type="full" format="zip">
-                <![CDATA[ https://github.com/Arns-ICT/joomla_plg-facebookapi/releases/download/v1.0.0/joomla_plg-facebookapi-v1.0.0.zip ]]>
+                <![CDATA[ https://github.com/Arns-ICT/joomla_plg-facebookapi/releases/download/v1.0.1/joomla_plg-facebookapi-v1.0.1.zip ]]>
             </downloadurl>
         </downloads>
         <infourl title="Facebook API Plugin">
-            <![CDATA[ https://github.com/Arns-ICT/joomla_plg-facebookapi/releases/tag/v1.0.0 ]]>
+            <![CDATA[ https://github.com/Arns-ICT/joomla_plg-facebookapi/releases/tag/v1.0.1 ]]>
         </infourl>
         <targetplatform name="joomla" version="((5\.(0|1|2|3|4|5|6|7|8|9)))"/>
         <php_minimum>8.1.0</php_minimum>
-        <sha256>6FCBAAFAF1544782D82EB7C7139C71E6097DF030A6F64EE7F47ADA6FB0123A5A</sha256>
-        <sha384>A3B18E972429F1B96FE10467451DBEE5ACD5E1A6D63CC2768E5E7E673356ED15CA7756AECBF1987B715DD93A97DEA5C7</sha384>
-        <sha512>92DE5B413D3B363E8691774BFA8D186F60F4F68AFC87C4735A510FEF6CFDBD12DAA08CF33F0F8B744DC2C7AD6F5FE722FB88818AD7BF3F8F2D9EBD33900C7051</sha512>
+        <sha256>C20ABEEABFCA2B65ABDFBE51C0FF039594355D44DAEB687CE8A5A76A775BBB3C</sha256>
+        <sha384>90C94451245B84C2E850A28735461E57DCDCC45D4F97EDCF7E5B33867A63B2C778EB9E26EDCCF6BFE01ECC2793B43337</sha384>
+        <sha512>D5959DFE95576685CBFBEBAAF301B418EC44DC2A6CE2455D5330CF9181023014F286C03A21129BF3AD4F6681C99BCE667AD5603E6FC52FC57B300B29924D9FF5</sha512>
     </update>
 </updates> 
