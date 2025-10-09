@@ -1,0 +1,24 @@
+<updates>
+    <update>
+        <name>Facebook Page Module</name>
+        <description>Installation package for joomla 5.x</description>
+        <element>facebookapi</element>
+        <type>plugin</type>
+		<folder>system</folder>
+		<client>site</client>
+        <version>1.0.0</version>
+        <downloads>
+            <downloadurl type="full" format="zip">
+                <![CDATA[ https://github.com/Arns-ICT/joomla_mod-facebookpage/releases/download/v1.0.0/joomla_mod-facebookpage-v1.0.0.zip ]]>
+            </downloadurl>
+        </downloads>
+        <infourl title="Facebook API Plugin">
+            <![CDATA[ https://github.com/Arns-ICT/joomla_mod-facebookpage/releases/tag/v1.0.0 ]]>
+        </infourl>
+        <targetplatform name="joomla" version="((5\.(0|1|2|3|4|5|6|7|8|9)))"/>
+        <php_minimum>8.1.0</php_minimum>
+        <sha256>58AA80C8ED048BBA391098C9792C8C5E024F586D758F4CF1A99B7381BDC4F1EC</sha256>
+        <sha384>7645CA1CDE7C29437EC3D3A6CAC322B7B66F576A982CD8E5995B04FAF034A673C0DAD7E041E085C337439536C118A2E6</sha384>
+        <sha512>E9BE7ED539392CA7169D69A88C6217817409C78C11A3830F1BAA91386C496F232CC752CAE714078E59009957B052097B69D864A98C0FDBA67D3F13A9B45BA23C</sha512>
+    </update>
+</updates> 
